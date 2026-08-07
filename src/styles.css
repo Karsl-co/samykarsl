@@ -90,7 +90,7 @@ section {
 }
 
 #hero {
-    background: url(/img/7b3a7c53358c508e246ba4ea40dcefc7.jpg) center/cover no-repeat;
+    background: url(./img/7b3a7c53358c508e246ba4ea40dcefc7.jpg) center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
