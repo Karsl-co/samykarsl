@@ -84,7 +84,7 @@ export default function App() {
       {/* SECCIÓN 3: PROPUESTA */}
       <section id="propuesta">
         <div className="propuesta-contenido hidden">
-          <h2>Te quiero mucho y lo hice con mucho cariño y quiero saber si</h2>
+          <h2>Te amoooooooooo muchisissimo y lo hice con mucho cariño y quiero saber si</h2>
           <p>¿Puedo ser tu novio?</p>
         </div>
       </section>
